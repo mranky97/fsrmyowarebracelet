@@ -1,0 +1,1 @@
+Since the labview VI writes to multiple locations and multiple files at the same time, the processing time is very high for each trial
